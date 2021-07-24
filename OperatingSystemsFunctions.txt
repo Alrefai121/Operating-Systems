@@ -1,0 +1,5 @@
+ Functions of an Operating System.
+ Memory Management
+ The Operating system manages the Primary Mamory. Primary memory is a fast storage and it can be accessed directly by the CPU.An Operating System keeps track of primary memory.It Allocates the memort to a process when the process request it and deallocates the memory when the process has terminated.
+ 
+ 
